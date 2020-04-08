@@ -1,0 +1,6 @@
+[submodule "merge-conflict-py"]
+	path = merge-conflict-py
+	url = https://github.com/mercutiodesign/merge-conflict-py
+[submodule "expenses"]
+	path = expenses
+	url = git@github.com:eva-lam/expenses.git
